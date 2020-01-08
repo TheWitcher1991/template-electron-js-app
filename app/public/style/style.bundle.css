@@ -1,0 +1,52 @@
+:root {
+    --baseBg: #f1f1f1;
+}
+aside, details, main, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+  
+audio, canvas, iframe, img, svg, video {
+vertical-align: middle;
+}
+  
+fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+  
+summary {
+    display: list-item;
+}
+  
+legend {
+    box-sizing: border-box; 
+    color: inherit; 
+    display: table; 
+    max-width: 100%; 
+    padding: 0; 
+    white-space: normal; 
+}
+  
+progress {
+    vertical-align: baseline;
+}
+  
+*, *:before, *:after {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -apple-box-sizing: border-box;
+    -khtml-box-sizing: border-box;
+    -rim-box-sizing: border-box;
+    -xv-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+  
+ul, menu {
+    list-style: none;
+}
+
+
+/*# sourceMappingURL=style.bundle.css.map*/
