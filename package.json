@@ -17,7 +17,7 @@
     "package:linux": "electron-packager . --overwrite --platform=linux --arch=x64 --out=build"
   },
   "author": "Ashot Svazyan <ashot.svazyan222@gmail.com>",
-  "license": "MIT",
+  "license": "GNU GPL",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheWitcher1991/template-electron-js-app.git"
